@@ -18,7 +18,7 @@ A FiveM resource that integrates **ChatGPT AI** with NPCs, allowing players to i
 
 | Step                | Command                                                        |
 |---------------------|----------------------------------------------------------------|
-| **Clone the Repo**   | `git clone https://github.com/yourusername/npc-ai-chatgpt-voice.git` |
+| **Clone the Repo**   | `git clone https://github.com/PaingVisal/fiveM_aiNPC` |
 | **Place in Resources**| Place the resource in your `resources/` folder (or any preferred location). |
 
 ### 2. Update `config.lua`
